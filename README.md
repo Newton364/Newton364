@@ -14,34 +14,35 @@
   />
 </h1>
 
-<!-- Imagen decorativa alineada a la derecha -->
-<picture>
-  <img 
-    align="right" 
-    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
-    width="250px" 
-    alt="Imagen decorativa" 
-  />
-</picture>
+<!-- Contenedor de la imagen decorativa -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <picture>
+    <img 
+      align="right" 
+      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
+      width="250px" 
+      alt="Imagen decorativa" 
+    />
+  </picture>
+</div>
 
-<!-- Espaciado para mejor visualización -->
+<!-- Espaciado para separar elementos -->
 <br/>
 
-<!-- Imagen animada de la serpiente en el gráfico de contribuciones para modo oscuro -->
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg"
-  />
-  
-  <!-- Imagen animada de la serpiente en el gráfico de contribuciones para modo claro -->
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg"
-  />
-  
-  <img 
-    src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg" 
-    alt="Snake Game"
-  />
-</picture>
+<!-- Snake Game en una sección independiente -->
+<div style="margin-top: 20px;">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg"
+    />
+    <img 
+      src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg" 
+      alt="Snake Game" 
+    />
+  </picture>
+</div>
