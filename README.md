@@ -6,8 +6,14 @@
   <a href="https://github.com/Newton364)">Newton364<a>  
   <!-- Imagen animada de saludo (GIF) -->
    <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" alt="Wave GIF"/>
-    <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+    <!-- Comienza la etiqueta <picture>, que se utiliza para incluir contenido visual adaptable -->
+<picture>
+  <!-- Inserta una imagen y la posiciona alineada a la derecha -->
+  <img 
+    align="right" <!-- La imagen se alinea al lado derecho del contenedor -->
+    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" <!-- URL de la imagen (GIF animado) ubicada en el repositorio de GitHub -->
+    width="250px" <!-- Define el ancho de la imagen en 250 píxeles -->
+  >
 </picture>
 </h1>
 
