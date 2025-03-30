@@ -1,6 +1,6 @@
 <!-- Encabezado de nivel 1 centrado -->
 <h1 align="center">  
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+  
   <!-- Texto de saludo -->
   ¡Hola, Mundo!, Soy
   
@@ -12,7 +12,7 @@
     src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" 
     width="60px" 
     alt="GIF de saludo" 
-  />
+  /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </h1>
 
 </div>
