@@ -3,7 +3,7 @@
   <!-- Texto de saludo -->
   ¡Hola, Mundo!, Soy
   <!-- Enlace al perfil de GitHub -->
-  <a href="https://github.com/Newton364">Alex</a>  
+  <a href="https://github.com/Newton364">Newton</a>  
   <!-- Imagen animada de manita saludando -->
   <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" alt="Wave GIF"/>
 </h1>
