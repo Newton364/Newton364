@@ -9,5 +9,5 @@
 </h1>
   <!-- Comienza la etiqueta <picture>, que se utiliza para incluir contenido visual adaptable -->
   <!-- URL de la imagen (GIF animado) ubicada en el repositorio de GitHub -->
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 
