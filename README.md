@@ -12,6 +12,7 @@
     width="60px" 
     alt="GIF de saludo" 
   />
+  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 </h1>
 
 </div>
