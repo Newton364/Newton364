@@ -13,8 +13,6 @@
     alt="GIF de saludo" 
   />
   
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-  
 </h1>
 
 </div>
@@ -53,3 +51,8 @@
     />
   </picture>
 </div>
+
+
+<!-- Imagen animada de gatito blanco -->
+<!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
+
