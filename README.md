@@ -1,29 +1,18 @@
-<!-- Contenedor principal -->
-<div style="display: flex; align-items: center;">
-
-  <!-- GIF animado alineado a la izquierda -->
+<!-- Encabezado de nivel 1 centrado -->
+<h1 align="center">  
+  <!-- Texto de saludo -->
+  ¡Hola, Mundo!, Soy
+  
+  <!-- Enlace al perfil de GitHub -->
+  <a href="https://github.com/Newton364">Newton</a>  
+  
+  <!-- Imagen animada de manita saludando -->
   <img 
-    src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" 
-    width="230" 
-    alt="GIF animado" 
-    style="margin-right: 20px;"
+    src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" 
+    width="60px" 
+    alt="GIF de saludo" 
   />
-
-  <!-- Contenido del encabezado centrado -->
-  <h1 style="text-align: center; flex: 1;">  
-    <!-- Texto de saludo -->
-    ¡Hola, Mundo!, Soy
-
-    <!-- Enlace al perfil de GitHub -->
-    <a href="https://github.com/Newton364">Newton</a>  
-
-    <!-- Imagen animada de manita saludando -->
-    <img 
-      src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" 
-      width="60px" 
-      alt="GIF de saludo" 
-    />
-  </h1>
+</h1>
 
 </div>
 
