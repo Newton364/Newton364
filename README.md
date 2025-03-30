@@ -1,5 +1,6 @@
 <!-- Encabezado de nivel 1 centrado -->
 <h1 align="center">  
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   <!-- Texto de saludo -->
   ¡Hola, Mundo!, Soy
   
