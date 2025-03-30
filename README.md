@@ -47,7 +47,7 @@
     <img 
       src="https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg" 
       alt="Snake Game" 
-      style="width: 400px; height: auto;" <!-- Cambia las dimensiones según sea necesario -->
+      style="width: 500px; height: auto;" <!-- Cambia las dimensiones según sea necesario -->
     />
   </picture>
 </div>
