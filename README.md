@@ -13,15 +13,24 @@
     alt="GIF de saludo" 
   />
 </h1>
-
-<!-- Contenedor de la imagen decorativa -->
+<!-- Contenedor para SVG animado y imagen decorativa -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  
+  <!-- SVG animado reemplazando la posición izquierda -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" style="width: 200px; margin-right: 20px;">
+    <text x="10" y="50" font-size="20" fill="blue">
+      ¡Hola, Alejandro!
+      <animate attributeName="x" from="10" to="90" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+  
+  <!-- Imagen decorativa original alineada a la derecha -->
   <picture>
     <img 
       align="right" 
       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
       width="250px" 
-      alt="Imagen decorativa" 
+      alt="Imagen decorativa"
     />
   </picture>
 </div>
