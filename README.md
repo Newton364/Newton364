@@ -22,7 +22,7 @@
     <img 
       align="left" 
       src="https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg" 
-      width="200px" 
+      width="500px" 
       alt="Imagen animada Eana Hufwe" 
       style="margin-right: 50px;"
     />
