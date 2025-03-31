@@ -55,4 +55,6 @@
 
 <!-- Imagen animada de gatito blanco -->
 <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
+<!--codediaz.md -Saludo y nombre -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" /> -->
 
