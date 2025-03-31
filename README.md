@@ -13,16 +13,18 @@
     alt="GIF de saludo" 
   />
 </h1>
-<!-- Contenedor para SVG animado y imagen decorativa -->
+<!-- Contenedor para Eana Hufwe e imagen decorativa -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   
-  <!-- SVG animado reemplazando la posición izquierda -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" style="width: 200px; margin-right: 20px;">
-    <text x="10" y="50" font-size="20" fill="blue">
-      ¡Hola, Alejandro!
-      <animate attributeName="x" from="10" to="90" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <!-- Imagen animada Eana Hufwe alineada a la izquierda -->
+  <picture>
+    <img 
+      src="https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg" 
+      width="200px" 
+      alt="Imagen animada Eana Hufwe" 
+      style="margin-right: 20px;" 
+    />
+  </picture>
   
   <!-- Imagen decorativa original alineada a la derecha -->
   <picture>
