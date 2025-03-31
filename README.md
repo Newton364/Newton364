@@ -17,6 +17,9 @@
 <!-- Contenedor de la imagen decorativa -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   
+<!-- Contenedor de la imagen decorativa -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  
   <!-- Imagen animada "Eana Hufwe" alineada a la izquierda -->
   <picture>
     <img 
@@ -38,6 +41,7 @@
     />
   </picture>
 </div>
+
 
 
 <!-- Espaciado para separar elementos -->
