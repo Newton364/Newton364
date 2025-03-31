@@ -44,6 +44,34 @@
 
 
 
+<!-- Espaciado para separar el<!-- Encabezado de nivel 1 centrado -->
+<h1 align="center">  
+  <!-- Texto de saludo -->
+  ¡Hola, Mundo!, Soy
+  
+  <!-- Enlace al perfil de GitHub -->
+  <a href="https://github.com/Newton364">Newton</a>  
+  
+  <!-- Imagen animada de manita saludando -->
+  <img 
+    src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" 
+    width="60px" 
+    alt="GIF de saludo" 
+  />
+</h1>
+
+<!-- Contenedor de la imagen decorativa -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <picture>
+    <img 
+      align="right" 
+      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
+      width="250px" 
+      alt="Imagen decorativa" 
+    />
+  </picture>
+</div>
+
 <!-- Espaciado para separar elementos -->
 <br/>
 
