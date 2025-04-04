@@ -30,7 +30,7 @@
   <!-- "display: flex" divide el espacio horizontal en dos secciones: el texto y la imagen -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <!-- Frase poética alineada a la izquierda -->
-  <div style="flex: 1; text-align: left; padding-right: 20px; font-style: italic; font-size: 18px;">
+  <div style="flex: 1; text-align: left; padding-right: 20px; font-style: italic; font-size: 20px;">
   <p>
     “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. 
     La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
