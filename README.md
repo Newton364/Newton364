@@ -15,7 +15,7 @@
 </h1>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <!-- Frase poética alineada a la izquierda -->
   <div style="flex: 1; font-style: italic; font-size: 18px; margin-right: 20px;">
     <p>
