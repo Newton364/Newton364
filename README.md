@@ -13,6 +13,28 @@
     alt="GIF de saludo" 
   />
 </h1>
+<div style="display: flex; align-items: center;">
+  <!-- Frase poética alineada a la izquierda -->
+  <div style="flex: 1; font-style: italic; font-size: 18px; margin-right: 20px;">
+    <p>
+      “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. 
+      La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
+      <br/>
+      <strong>— Macahua, el rey cuervo</strong>
+    </p>
+  </div>
+
+  <!-- Imagen decorativa original alineada a la derecha -->
+  <div style="flex-shrink: 0;">
+    <img 
+      align="right" 
+      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
+      width="250px" 
+      alt="Imagen decorativa"
+    />
+  </div>
+</div>
+
 
   
   <!-- Imagen decorativa original alineada a la derecha -->
@@ -49,10 +71,6 @@
 
 
 <!-- Créditos de origen: 7o5kaa.md, Kathryn.md, blueset.md -->
-
-
-
-
 
 <!-- Imagen animada de gatito blanco -->
 <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
