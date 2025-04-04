@@ -24,12 +24,13 @@
     />
   </div>
 
-  <!-- Espaciado para separar elementos -->
+  <!-- Espaciado (doble) para separar elementos (Imagen decorativa de Texto) -->
   <br><br>
   
-<div style="display: flex; align-items: left;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <!-- Frase poética alineada a la izquierda -->
-  <div style="flex: 1; font-style: italic; font-size: 18px; margin-right: 20px;">
+  <div style="flex: 1; text-align: left; padding-right: 20px; font-style: italic; font-size: 18px;">
+    <p>
     <p>
       “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. 
       La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
@@ -65,7 +66,7 @@
 
 
 <!-- Créditos de origen: 7o5kaa.md, Kathryn.md, blueset.md, istmeshibintmz.md -->
-<!-- Contenido expuesto en https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md -->
+<!-- Contenido expuesto en [https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates) -->
 
 <!-- Imagen animada de gatito blanco -->
 <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
