@@ -17,8 +17,7 @@
   <!-- Frase poética alineada a la izquierda -->
   <div style="flex: 1; font-style: italic; font-size: 18px; margin-right: 20px;">
     <p>
-      “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. 
-      La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
+      “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable. ”
       <br/>
       <strong>— Macahua, el rey cuervo</strong>
     </p>
