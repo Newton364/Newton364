@@ -14,7 +14,15 @@
   />
 </h1>
 
-
+<!-- Imagen decorativa original alineada a la derecha -->
+  <div style="flex-shrink: 0;">
+    <img 
+      align="right" 
+      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
+      width="250px" 
+      alt="Imagen decorativa"
+    />
+  </div>
 <div style="display: flex; align-items: left;">
   <!-- Frase poética alineada a la izquierda -->
   <div style="flex: 1; font-style: italic; font-size: 18px; margin-right: 20px;">
@@ -26,15 +34,7 @@
     </p>
   </div>
 
-  <!-- Imagen decorativa original alineada a la derecha -->
-  <div style="flex-shrink: 0;">
-    <img 
-      align="right" 
-      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
-      width="250px" 
-      alt="Imagen decorativa"
-    />
-  </div>
+  
 </div>
 
 
@@ -60,7 +60,7 @@
 </div>
 
 
-<!-- Créditos de origen: 7o5kaa.md, Kathryn.md, blueset.md -->
+<!-- Créditos de origen: 7o5kaa.md, Kathryn.md, blueset.md, istmeshibintmz.md -->
 
 <!-- Imagen animada de gatito blanco -->
 <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
