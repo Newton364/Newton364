@@ -13,20 +13,20 @@
     alt="GIF de saludo" 
   />
 </h1>
-<div style="display: flex; align-items: center;">
+
+<div style="display: flex; align-items: center; justify-content: center;">
   <!-- Frase poética alineada a la izquierda -->
-  <div style="flex: 1; font-style: italic; font-size: 18px; margin-right: 20px;">
+  <div style="flex: 1; text-align: left; padding-right: 20px; font-style: italic; font-size: 18px;">
     <p>
-      “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable. ”
-      <br/>
-      <strong>— Macahua, el rey cuervo</strong>
+      “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. 
+      La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
+      <br/><strong>— Macahua, el rey cuervo</strong>
     </p>
   </div>
 
-  <!-- Imagen decorativa original alineada a la derecha -->
-  <div style="flex-shrink: 0;">
+  <!-- Imagen decorativa alineada a la derecha -->
+  <div>
     <img 
-      align="right" 
       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
       width="250px" 
       alt="Imagen decorativa"
