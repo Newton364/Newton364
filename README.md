@@ -44,10 +44,6 @@
 </div>
 
 
-  
-</div>
-
-
 <!-- Espaciado para separar elementos -->
 <br/>
 
