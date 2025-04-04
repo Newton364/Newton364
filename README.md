@@ -14,25 +14,29 @@
   />
 </h1>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+
+<div style="display: flex; align-items: center;">
   <!-- Frase poética alineada a la izquierda -->
-  <div style="flex: 1; text-align: left; padding-right: 20px; font-style: italic; font-size: 18px;">
+  <div style="flex: 1; font-style: italic; font-size: 18px; margin-right: 20px;">
     <p>
       “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. 
       La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
-      <br/><strong>— Macahua, el rey cuervo</strong>
+      <br/>
+      <strong>— Macahua, el rey cuervo</strong>
     </p>
   </div>
 
-  <!-- Imagen decorativa alineada a la derecha -->
-  <div>
+  <!-- Imagen decorativa original alineada a la derecha -->
+  <div style="flex-shrink: 0;">
     <img 
+      align="right" 
       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
       width="250px" 
       alt="Imagen decorativa"
     />
   </div>
 </div>
+
 
 <!-- Espaciado para separar elementos -->
 <br/>
