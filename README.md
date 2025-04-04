@@ -38,7 +38,7 @@
   </p>
   </div>
   <!-- Alineación del texto a la derecha -->
-  <div style="flex: 1; text-align: right; margin-top: 10px;">
+  <div style="flex: 2; text-align: right; margin-top: 10px;">
     <strong>— Macahua, el rey cuervo</strong>
   </div>
 </div>
