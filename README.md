@@ -36,6 +36,7 @@
     La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
     <br/>
   </p>
+  </div>
   <!-- Alineación del texto a la derecha -->
   <div style="flex: 1; text-align: right; margin-top: 10px;">
     <strong>— Macahua, el rey cuervo</strong>
