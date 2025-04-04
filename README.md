@@ -65,6 +65,7 @@
 
 
 <!-- Créditos de origen: 7o5kaa.md, Kathryn.md, blueset.md, istmeshibintmz.md -->
+<!-- Contenido expuesto en https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md -->
 
 <!-- Imagen animada de gatito blanco -->
 <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
