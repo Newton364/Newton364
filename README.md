@@ -35,11 +35,13 @@
     “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. 
     La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
     <br/>
-    <div style="text-align: right;">
-      <strong>— Macahua, el rey cuervo</strong>
-    </div>
   </p>
+  <!-- Alineación del texto a la derecha -->
+  <div style="text-align: right; margin-top: 10px;">
+    <strong>— Macahua, el rey cuervo</strong>
+  </div>
 </div>
+
 
   
 </div>
