@@ -22,11 +22,11 @@
 
 <!-- Fragmento de texto estilizado -->
 <pre style="background-color: #2d2d2d; color: #f8f8f2; padding: 20px; border-radius: 5px; font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.6;">
-<span style="color: #66d9ef;"># Lanzamos como redes nuestro lenguaje de código sobre el mundo;</span>
+<span style="color: #66d9ef;"># "Lanzamos como redes nuestro lenguaje de código sobre el mundo;</span>
 <span style="color: #f92672;"># para organizar la realidad de las palabras en metáforas de variables.</span>
 <span style="color: #a6e22e;"># La creatividad y la inspiración adecuada modela, interpreta,</span>
 <span style="color: #fd971f;"># simboliza la poesía en aquellos circuitos que expresan a los sentidos...</span>
-<span style="color: #e6db74;"># lo inefable.</span>
+<span style="color: #e6db74;"># lo inefable."</span>
 <span style="color: #ae81ff;"># — Macahua, el rey cuervo</span>
 </pre>
  
