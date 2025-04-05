@@ -1,12 +1,6 @@
-<!-- Encabezado de nivel 1 centrado -->
 <h1 align="center">  
-  <!-- Texto de saludo -->
-  ¡Hola, Mundo!, Soy
-  
-  <!-- Enlace al perfil de GitHub -->
+  ¡Hola, Mundo!, Soy  
   <a href="https://github.com/Newton364">Newton</a>  
-  
-  <!-- Imagen animada de manita saludando -->
   <img 
     src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" 
     width="60px" 
@@ -14,40 +8,31 @@
   />
 </h1>
 
-<!-- Imagen decorativa original alineada a la derecha -->
-  <div style="flex-shrink: 0;">
-    <img 
-      align="right" 
-      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
-      width="250px" 
-      alt="Imagen decorativa"
-    />
-  </div>
-
-  <!-- Espaciado (doble) para separar elementos (Imagen decorativa de Texto) -->
-  <br><br>
-
-  <!-- "display: flex" divide el espacio horizontal en dos secciones: el texto y la imagen -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <!-- Frase poética alineada a la izquierda -->
-  <div style="flex: 1; text-align: left; padding-right: 20px; font-style: italic; font-size: 20px;">
-  <p>
-    “Lanzamos como redes nuestro lenguaje de código sobre el mundo; para organizar la realidad de las palabras en metáforas de variables. 
-    La creatividad y la inspiración adecuada modela, interpreta, simboliza la poesía en aquellos circuitos que expresan a los sentidos… lo inefable.”
-    <br/>
-  </p>
-  </div>
-  <!-- Alineación del texto a la derecha -->
-  <div style="flex: 2; text-align: right; margin-top: 10px;">
-    <strong>— Macahua, el rey cuervo</strong>
-  </div>
+<!-- Imagen decorativa alineada a la derecha -->
+<div style="flex-shrink: 0;">
+  <img 
+    align="right" 
+    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
+    width="250px" 
+    alt="Imagen decorativa"
+  />
 </div>
 
+<br><br>
 
-<!-- Espaciado para separar elementos -->
+<!-- Fragmento de texto estilizado -->
+<pre style="background-color: #2d2d2d; color: #f8f8f2; padding: 20px; border-radius: 5px; font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.6;">
+<span style="color: #66d9ef;"># Lanzamos como redes nuestro lenguaje de código sobre el mundo;</span>
+<span style="color: #f92672;"># para organizar la realidad de las palabras en metáforas de variables.</span>
+<span style="color: #a6e22e;"># La creatividad y la inspiración adecuada modela, interpreta,</span>
+<span style="color: #fd971f;"># simboliza la poesía en aquellos circuitos que expresan a los sentidos...</span>
+<span style="color: #e6db74;"># lo inefable.</span>
+<span style="color: #ae81ff;"># — Macahua, el rey cuervo</span>
+</pre>
+
 <br/>
 
-<!-- Snake Game en una sección independiente -->
+<!-- Snake Game -->
 <div style="margin-top: 20px;">
   <picture>
     <source 
