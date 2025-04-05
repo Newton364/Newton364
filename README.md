@@ -49,13 +49,17 @@
     />
   </picture>
 </div>
+<p style="margin-top: 20px; font-size: 16px; line-height: 1.6; text-align: center;">
+  Este proyecto sigue una filosofía de colaboración abierta, promoviendo el aprendizaje compartido y el desarrollo conjunto. 
+  Se construye en un contexto educativo con herramientas como <strong>Microsoft Copilot</strong>, Python, Flet y otros recursos, optimizando el proceso de creación y exploración técnica.
+</p>
 
+Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates), creado por **Durgesh Samariya**. En particular, se integraron ideas de las siguientes plantillas:
+- **7oSkaa.md**
+- **Kathryn.md**
+- **Blueset.md**
+- **Istmeshibintmz.md**
 
-<!-- Créditos de origen: 7o5kaa.md, Kathryn.md, blueset.md, istmeshibintmz.md -->
-<!-- Contenido expuesto en [https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates) -->
+Gracias a estas contribuciones, fue posible construir un perfil orientado a la colaboración y el aprendizaje. Invito a otros a explorar este excelente repositorio y las plantillas mencionadas para encontrar inspiración y recursos útiles.
 
-<!-- Imagen animada de gatito blanco -->
-<!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
-<!--codediaz.md -Saludo y nombre -->
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" /> -->
 
