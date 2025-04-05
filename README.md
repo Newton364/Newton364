@@ -27,9 +27,11 @@
 <span style="color: #a6e22e;"># La creatividad y la inspiración adecuada modela, interpreta,</span>
 <span style="color: #fd971f;"># simboliza la poesía en aquellos circuitos que expresan a los sentidos...</span>
 <span style="color: #e6db74;"># lo inefable.</span>
-<span style="color: #ae81ff;"># — Macahua, el rey cuervo</span>
 </pre>
-
+ <!-- Alineación del texto a la derecha -->
+  <div style="flex: 2; text-align: right; margin-top: 10px;">
+    <strong>— Macahua, el rey cuervo</strong>
+  </div>
 <br/>
 
 <!-- Snake Game -->
