@@ -54,13 +54,14 @@
   Se construye en un contexto educativo con herramientas como <strong>Microsoft Copilot</strong>, Python, Flet y otros recursos, optimizando el proceso de creación y exploración técnica.
 </p>
 
-<!-- ### 🌟 Créditos y agradecimientos
+<!-- ### 🌟🌟🌟 Créditos y agradecimientos 🌟🌟🌟
 
 Este perfil fue desarrollado con inspiración y elementos tomados de las plantillas organizadas en el repositorio [Awesome GitHub Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates), creado por **Durgesh Samariya**. En particular, se integraron ideas de las siguientes plantillas:
 - **7oSkaa.md**
 - **Kathryn.md**
 - **Blueset.md**
 - **Istmeshibintmz.md**
+- **Durgesh Samariya**
 
 Gracias a estas contribuciones, fue posible construir un perfil orientado a la colaboración y el aprendizaje. Invito a otros a explorar este excelente repositorio y las plantillas mencionadas para encontrar inspiración y recursos útiles.-->
 
